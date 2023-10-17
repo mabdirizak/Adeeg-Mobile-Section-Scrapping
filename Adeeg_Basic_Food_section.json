@@ -1,1 +1,102 @@
-[{"productName":"Volga Sugar 5Kg","productImage":"https://adeeg.com/products/volga-sugar-1kg","price":"$6.00"},{"productName":"Un Soke Flour 1kg","productImage":"https://adeeg.com/products/un-soke-flour-1kg","price":"$1.50"},{"productName":"TATE &LYLE Granulated White Sugar 1kg","productImage":"https://adeeg.com/products/tate-lyle-granulated-white-sugar-1kg","price":"$2.00"},{"productName":"Sonkor 25Kg ( Sugar )","productImage":"https://adeeg.com/products/sonkor-25kg-sugar","price":"$21.50"},{"productName":"Samrat Besan Gram Flour 1kg","productImage":"https://adeeg.com/products/samrat-besan-gram-flour-1kg","price":"$2.00"},{"productName":"Rihab - Indian Creamy Sella Basmati Rice 10Kg","productImage":"https://adeeg.com/products/rihab-indian-creamy-sella-basmati-rice-10kg","price":"$13.00"},{"productName":"Renzo Vegetable Stock Powder 1Kg","productImage":"https://adeeg.com/products/renzo-vegetable-stock-powder-1kg","price":"$3.50"},{"productName":"Renzo Food Seasoning With Vegetable Powder 500g","productImage":"https://adeeg.com/products/renzo-food-seasoning-with-vegetable-powder-15","price":"$2.50"},{"productName":"Renzo Demi Glace Sauce 750g","productImage":"https://adeeg.com/products/renzo-demi-glace-sauce-750g","price":"$3.50"},{"productName":"Renzo Chicken Stock Powder 1Kg","productImage":"https://adeeg.com/products/renzo-chicken-stock-powder-1kg","price":"$3.50"},{"productName":"Renzo Beef Stock Powder 1Kg","productImage":"https://adeeg.com/products/renzo-beef-stock-powder-1kg","price":"$3.50"},{"productName":"Reihan Salt 700g","productImage":"https://adeeg.com/products/reihan-salt-700g","price":"$0.70"},{"productName":"Primo Pasta Tarabuno 500g","productImage":"https://adeeg.com/products/primo-past-tarabuno-500g","price":"$0.60"},{"productName":"Primo Pasta Spagheti 500g","productImage":"https://adeeg.com/products/primo-spagheti-500g","price":"$0.60"},{"productName":"Primo Pasta Macaroni 500g","productImage":"https://adeeg.com/products/primo-past-macaroni-500g","price":"$0.60"},{"productName":"Pran Virgin Mustard Oil 500ml","productImage":"https://adeeg.com/products/arjan-extra-virgin-olive-oil-500ml","price":"$2.50"},{"productName":"Orkide Extra Virgin Olive Oil 250ml","productImage":"https://adeeg.com/products/orkide-extra-virgin-olive-oil-250ml","price":"$1.50"},{"productName":"Nezo Pure Salt Blue 600G","productImage":"https://adeeg.com/products/bayara-salt-330ml","price":"$2.00"},{"productName":"Mutlu Makarna Couscous 500 G","productImage":"https://adeeg.com/products/mutlu-makarna-couscous-500-g","price":"$1.50"},{"productName":"MUSHAARI 700g","productImage":"https://adeeg.com/products/copy-of-deeqtoon-mushaari-masago-iyo-qamadi-1kg","price":"$2.80"}]
+[
+  {
+    "productName": "Volga Sugar 5Kg",
+    "productImage": "https://adeeg.com/products/volga-sugar-1kg",
+    "price": "$6.00"
+  },
+  {
+    "productName": "Un Soke Flour 1kg",
+    "productImage": "https://adeeg.com/products/un-soke-flour-1kg",
+    "price": "$1.50"
+  },
+  {
+    "productName": "TATE &LYLE Granulated White Sugar 1kg",
+    "productImage": "https://adeeg.com/products/tate-lyle-granulated-white-sugar-1kg",
+    "price": "$2.00"
+  },
+  {
+    "productName": "Sonkor 25Kg ( Sugar )",
+    "productImage": "https://adeeg.com/products/sonkor-25kg-sugar",
+    "price": "$21.50"
+  },
+  {
+    "productName": "Samrat Besan Gram Flour 1kg",
+    "productImage": "https://adeeg.com/products/samrat-besan-gram-flour-1kg",
+    "price": "$2.00"
+  },
+  {
+    "productName": "Rihab - Indian Creamy Sella Basmati Rice 10Kg",
+    "productImage": "https://adeeg.com/products/rihab-indian-creamy-sella-basmati-rice-10kg",
+    "price": "$13.00"
+  },
+  {
+    "productName": "Renzo Vegetable Stock Powder 1Kg",
+    "productImage": "https://adeeg.com/products/renzo-vegetable-stock-powder-1kg",
+    "price": "$3.50"
+  },
+  {
+    "productName": "Renzo Food Seasoning With Vegetable Powder 500g",
+    "productImage": "https://adeeg.com/products/renzo-food-seasoning-with-vegetable-powder-15",
+    "price": "$2.50"
+  },
+  {
+    "productName": "Renzo Demi Glace Sauce 750g",
+    "productImage": "https://adeeg.com/products/renzo-demi-glace-sauce-750g",
+    "price": "$3.50"
+  },
+  {
+    "productName": "Renzo Chicken Stock Powder 1Kg",
+    "productImage": "https://adeeg.com/products/renzo-chicken-stock-powder-1kg",
+    "price": "$3.50"
+  },
+  {
+    "productName": "Renzo Beef Stock Powder 1Kg",
+    "productImage": "https://adeeg.com/products/renzo-beef-stock-powder-1kg",
+    "price": "$3.50"
+  },
+  {
+    "productName": "Reihan Salt 700g",
+    "productImage": "https://adeeg.com/products/reihan-salt-700g",
+    "price": "$0.70"
+  },
+  {
+    "productName": "Primo Pasta Tarabuno 500g",
+    "productImage": "https://adeeg.com/products/primo-past-tarabuno-500g",
+    "price": "$0.60"
+  },
+  {
+    "productName": "Primo Pasta Spagheti 500g",
+    "productImage": "https://adeeg.com/products/primo-spagheti-500g",
+    "price": "$0.60"
+  },
+  {
+    "productName": "Primo Pasta Macaroni 500g",
+    "productImage": "https://adeeg.com/products/primo-past-macaroni-500g",
+    "price": "$0.60"
+  },
+  {
+    "productName": "Pran Virgin Mustard Oil 500ml",
+    "productImage": "https://adeeg.com/products/arjan-extra-virgin-olive-oil-500ml",
+    "price": "$2.50"
+  },
+  {
+    "productName": "Orkide Extra Virgin Olive Oil 250ml",
+    "productImage": "https://adeeg.com/products/orkide-extra-virgin-olive-oil-250ml",
+    "price": "$1.50"
+  },
+  {
+    "productName": "Nezo Pure Salt Blue 600G",
+    "productImage": "https://adeeg.com/products/bayara-salt-330ml",
+    "price": "$2.00"
+  },
+  {
+    "productName": "Mutlu Makarna Couscous 500 G",
+    "productImage": "https://adeeg.com/products/mutlu-makarna-couscous-500-g",
+    "price": "$1.50"
+  },
+  {
+    "productName": "MUSHAARI 700g",
+    "productImage": "https://adeeg.com/products/copy-of-deeqtoon-mushaari-masago-iyo-qamadi-1kg",
+    "price": "$2.80"
+  }
+]
