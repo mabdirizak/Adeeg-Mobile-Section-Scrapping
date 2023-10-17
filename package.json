@@ -1,0 +1,15 @@
+{
+  "name": "adeeg.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mohamed Abdirazak",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
